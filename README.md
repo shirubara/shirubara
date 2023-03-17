@@ -1,5 +1,13 @@
-### Hi there 👋
+### Ola, tudo bem? sou o Rafael 👋
 
+-🖥Estou aprendendo **python** e quero me aprofundar na linguagem.
+-⚙Atualmente trabalho na área de produção, porem quero migrar para a área de tecnologia.
+-👯Estou buscando **aprender** com as pessoas mais experientes e **somar** com o conhecimento que tenho.
+-📫Para contato: Rafaelpinheirosilva45@gmail.com
+-🦾Linguagens que estou estudando:
+
+<img widht="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 <!--
 **shirubara/shirubara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
